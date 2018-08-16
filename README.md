@@ -1,10 +1,10 @@
-# Draglet API testing
+# Exchange API testing
 
-Testing latency and load on the OpenAPI based draglet api using NodeJS.
+Testing latency and load on the OpenAPI created exchange API using NodeJS.
 
 ## Summary
 
-This repo provides tools for testing the [draglet](https://www.draglet.com/) api which is based on OpenAPI. 
+This repo provides tools for testing the [exchange](https://omiex-test.draglet.com/api#/) api which is created using OpenAPI. 
 
 ## Swagger
 
