@@ -26,5 +26,5 @@ In addition, hooks is neded because there are `tokens` and other objects that so
 
 
 ```
-json2yaml swagger-doc.js > swagger-doc.yml     
+dredd ./api/kapytal-api_files/swagger-doc.js https://omiex-test.draglet.com/api 
 ```
