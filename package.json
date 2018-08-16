@@ -1,0 +1,20 @@
+{
+  "name": "exchange-api-testing",
+  "version": "1.0.0",
+  "description": "Testing latency and load on the OpenAPI created exchange API using NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kapytal-io/exchange-api-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kapytal-io/exchange-api-testing/issues"
+  },
+  "homepage": "https://github.com/Kapytal-io/exchange-api-testing#readme"
+}
